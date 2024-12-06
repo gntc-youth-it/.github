@@ -16,9 +16,11 @@
       <summary> 🧑🏻‍💻 Developer 🧑🏻‍💻 </summary>
       <div class="developer">
         
-| ![박석희](https://avatars.githubusercontent.com/stoneHee99) | ![양원석](https://avatars.githubusercontent.com/yangws128) | 
-| :-------------------------------------------------------------: | :-------------------------------------------------------------: | 
-|             [박석희](https://github.com/stoneHee99)              |              [양원석](https://github.com/yangws128)               | 
+| ![박석희](https://avatars.githubusercontent.com/stoneHee99) | ![양원석](https://avatars.githubusercontent.com/yangws128) | ![김승진](https://avatars.githubusercontent.com/winwalking) |
+| :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: | 
+|             [박석희](https://github.com/stoneHee99)              |              [양원석](https://github.com/yangws128)               |              [김승진](https://github.com/winwalking)               |
+
+
 
 
   </div>
