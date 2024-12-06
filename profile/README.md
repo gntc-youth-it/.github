@@ -1,6 +1,6 @@
 <!-- ![github_banner] -->
 
-# GNTC 청년봉사선교회 - IT
+# <img src="https://avatars.githubusercontent.com/u/182585702?s=48&v=4" width="30px" height="30px"> GNTC 청년봉사선교회 - IT
 
 <div align=center>
   
